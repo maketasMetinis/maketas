@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+
+body{
+    font-family: 'Comic Neue', cursive; 
+    margin: 0;
+}
+
+.hero-bg {
+    background: coral url('../img/amingus.jpg');
+    color: white;
+    text-align: center;
+    padding: 4em;
+} 
+
+header{
+    padding-bottom: 2em;
+    font-size: 2.2rem;
+}
+header a{
+    color: white;
+    text-decoration: none;
+}
+
+section{
+    margin: 0 1em;
+}
+
+h1{
+    margin: 0 0 2em;
+    font: 2.5rem;
+}
+
+h1 span{
+    text-transform: uppercase;
+    display: block;
+}
